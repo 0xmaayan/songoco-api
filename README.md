@@ -10,6 +10,7 @@
 - clone repo
 - cp .env.exmple .env  // fill out the values 
 - npm install
+- npm run dev
 
 #### This application works best with
 [songoco-front](https://github.com/msbir/songoco-front)
